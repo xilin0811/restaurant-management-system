@@ -43,7 +43,7 @@ The system integrates ingredient management, product inventory, order management
 
 The database was designed using an Entity-Relationship Model and relational schema, with relationship tables connecting ingredients to products and products to orders.
 
-![Database ER Diagram](docs/er-diagram.png)
+![Database ER Diagram](restaurant-management-system/docs/er-diagram.png)
 
 ## System Screenshots
 
