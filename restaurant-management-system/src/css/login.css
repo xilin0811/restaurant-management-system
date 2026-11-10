@@ -1,0 +1,74 @@
+@charset "utf-8";
+*{box-sizing:border-box;}
+body{overflow: hidden;
+    background-color: rgba(166, 177, 119, 0.199);
+	}
+		.head{
+        position:absolute;width:100%;height:15%;
+		top:0px;left:0px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color:#160707;
+		color:white;
+		font-size:60px;
+		font-family:"標楷體";
+		text-align:center;
+		line-height:1.5;
+		
+        }
+        section{position:absolute;top:15%;
+			width:100%;height:65%;
+			
+        }
+        .former{width:600px;height:auto;
+			
+			border:0px solid gray;
+			text-align:center;
+			margin-left:auto;
+			margin-right:auto;
+			margin-top:150px;
+			
+			}
+		#btn1{
+            font-weight:bold;
+            font-family:"標楷體";
+			width:200px;height:80px;
+			margin-top:20px;
+			margin-left:-10px;
+			font-size:40px;
+			border-radius: 5px;
+			}
+        #btn2{
+             font-weight:bold;
+             font-family:"標楷體";
+             margin-top:20px;
+             width:200px;height:80px;
+			 font-size:40px;
+			 border-radius: 5px;
+			}
+        #btn3{
+             margin-top:20px;
+             margin-right: -20px;
+             font-weight:bold;
+             font-family:"標楷體";
+             width:200px;height:80px;
+			 font-size:40px;
+			border-radius: 5px;
+		}
+		#img1{
+			background-color: transparent;
+			width: 35px;
+			height:35px;
+		}
+		#img2{
+			background-color: transparent;
+			width: 35px;
+			height:35px;
+		}
+		#text{font-size:40px;color:rgb(36, 14, 14);font-family: "標楷體";}
+		#intext{width:300px;height:60px;font-size:25px;line-height: 10px;}
+
+        
+		
+		input:focus{background-color:rgb(233, 233, 185);}
+

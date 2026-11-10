@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+*{box-sizing: border-box;}
+body{overflow: hidden;
+    background-size:cover;
+    background-color: rgb(250, 244, 244);
+}
+header{position:absolute;width:100%;height:15%;
+    top:0%;left:0%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(88, 109, 116);
+    color:white;
+    font-size:40px;
+    font-family:"新細明體";
+    text-align:center;
+    font-weight: bolder;
+    line-height:1.5;
+}
+#head_table{border:1 solid white;width:100%}
+#head_td1{width:30%}
+#head_td1_img{width:100px;height:100px;margin-right:200px;}
+#head_td2{width:40%;position:absolute;left:30%;height:120px;letter-spacing: 20px;margin-top: 25px;}
+#head_td3{width:15%;position:absolute;left:70%;height:120px;}
+#head_td4{width:15%;position:absolute;left:85%;height:120px;}
+#homebtn{width:60px;height:60px;background-color:transparent;border:none;border-radius: 10px;margin-top: 10px;}
+#logoutbtn{width:60px;height:60px;background-color:transparent;border:none;border-radius: 10px;margin-top: 10px;float:left;}
+section
+{position:absolute;top:15%;
+    width:80%;height:auto;
+    margin-left:10%;
+    margin-right:10%;
+}
+fieldset{border:none;width:600px;height:auto;text-align:left;}
+#form1{width:auto;height:auto;}
+#text1{font-size: 28px;}
+#text2{font-size: 28px;}
+#text3{font-size: 28px;}
+#text4{font-size: 28px;}
+#text5{font-size: 28px;}
+#text6{font-size: 28px;}
+#intext{width:400px;height:50px;margin-left:10px;font-size: 28px;border-radius: 5px;}
+#intext2{width:400px;height:50px;margin-left:58px;font-size: 28px;border-radius: 5px;}
+#M{width:20px;height:20px;margin-left:58px;}
+#F{width:20px;height:20px;}
+#btn1
+{
+    width:550px;height:60px;
+    font-size: 28px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 5px;
+}
+
+   
+  
