@@ -48,16 +48,16 @@ The database was designed using an Entity-Relationship Model and relational sche
 ## System Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/home.png)
+![Main Dashboard](restaurant-management-system/screenshots/home.png)
 
 ### Ingredient Management
-![Ingredient Management](screenshots/inventory.png)
+![Ingredient Management](restaurant-management-system/screenshots/inventory.png)
 
 ### Order Management
-![Order Management](screenshots/ordering.png)
+![Order Management](restaurant-management-system/screenshots/ordering.png)
 
 ### Checkout
-![Checkout](screenshots/checkout.png)
+![Checkout](restaurant-management-system/screenshots/checkout.png)
 
 ## Project Documentation
 
